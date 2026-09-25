@@ -42,14 +42,26 @@ This project helps identify repeatable content structures instead of relying onl
 - Dataset was provided through Codebasics Data Analytics Bootcamp – Codebasics Virtual Internship.
 - Raw dataset is not included in this repository due to sharing restrictions.
 
+## Executive Strategy Presentation
+An agency-grade 9-slide CXO Executive Strategy Deck is available in the [`presentation/`](presentation/) directory:
+- **Presentation File:** [Executive_Strategy_Deck.pptx](presentation/Executive_Strategy_Deck.pptx) (16:9 Widescreen, Obsidian Dark theme, complete CXO speaker notes)
+- **Slide Preview Gallery:** [presentation_slides/slide/](presentation_slides/slide/)
+- **Core Narrative:** Setup → Tension / Problem Magnification → Strategic Resolution → Commercial Impact (Unit Economics & 90-Day Execution Roadmap)
+
 ## Project Structure
+```text
 netflix-youtube-analysis/
 │
 ├── assets/
 ├── dashboards/
 ├── data/
 ├── docs/
+├── presentation/
+│   └── Executive_Strategy_Deck.pptx
+├── presentation_slides/
+│   └── slide/
 └── README.md
+```
 
 ## Key Learnings
 - Learned how to convert raw content data into business insights.
